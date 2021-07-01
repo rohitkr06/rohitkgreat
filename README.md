@@ -1,8 +1,16 @@
-Hi there,
-I am Rohit, a tech enthusiast currently learning 
+## Hi there,
+## I am Rohit, 
+a tech enthusiast currently learning 
 and working on Flutter Projects.
-Check Out those Apps.
-Feel free to connect me on LinkedIn.
+
+## What am I learning these days
+> Flutter
+> Firebase
+> Competitve Programming
+> Doing DSA q. in C++ on CF
+
+Feel free to connect me on LinkedIn or you can drop me a mail on 
+## rohitk61299@gmail.com.
 
 <!---
 rohitkgreat/rohitkgreat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
